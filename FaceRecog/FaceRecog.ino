@@ -19,8 +19,8 @@
 
 #include "camera_pins.h"
 
-const char *ssid = "La_Fibre_dOrange_2.4G_CF9E";
-const char *password = "9334UUGY93566QTPGD";
+const char *ssid = "your wifi name";
+const char *password = "pass";
 
 void startCameraServer();
 
