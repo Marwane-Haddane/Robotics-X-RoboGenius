@@ -28,9 +28,11 @@ Experiments with ESP32-CAM for image streaming and processing.
 ```
 Arduino/
 ├── BluetoothCar/
-├── EspCamTrying/
+├── Smart Eco home/
 ├── FaceRecog/
 ├── SuiveurBluetoothCar/
+├── BluetoothAgriCar/
+├── SmartSafeCar(ComputerVision & Ai)/
 └── (more coming...)
 ```
 
