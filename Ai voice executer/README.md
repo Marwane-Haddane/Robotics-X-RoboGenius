@@ -10,6 +10,12 @@ VART is a futuristic Edge-AI hardware console that bridges physical sensors, key
 
 ## ⚡ Core Use Cases & Architectures
 
+### Our 1st architecture design (demo)
+![backend architecture](images/backend%20code.png)
+*Fig : Backend architecture.*
+ 
+### Core use cases in the future to implement
+
 VART is designed as a modular core that can adapt to multiple high-impact scenarios:
 
 ### 1. Wireless Smart Home Automation (via ESP-NOW)
@@ -107,7 +113,11 @@ The physical setup is wired directly to the **LilyGo T-A7670E R2 (ESP32)** board
 | **Keypad Col 3** | **GPIO 32** | Column 3 matrix scanning line |
 
 ---
+### Here is an image of the circuit 
 
+![circuit](images/circuit.png)
+*Fig : circuit in excludraw.*
+---
 ## 🚀 Quick Start Guide
 
 ### 1. Requirements
