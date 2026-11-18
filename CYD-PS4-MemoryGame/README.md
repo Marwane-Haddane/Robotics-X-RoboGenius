@@ -1,5 +1,7 @@
 # 🎮 CYD + PS4 — Memory Combo Game
 
+> **⚡ Install it from your browser:** firmware releases and the one-click web installer live in **[cyd-ps4-memory-game](https://github.com/Marwane-Haddane/cyd-ps4-memory-game)** · [Web installer](https://marwane-haddane.github.io/cyd-ps4-memory-game/)
+
 A memory game for the ESP32 **Cheap Yellow Display (CYD)** controlled by a **PS4 DualShock 4** over Bluetooth Classic.
 
 The screen flashes a sequence of controller buttons; repeat it in order. Each round adds one button. Finish a 12-button sequence to win.
