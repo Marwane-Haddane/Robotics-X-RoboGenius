@@ -1,0 +1,8 @@
+.pio/
+build/
+managed_components/
+components/arduino/
+work/
+*.map
+sdkconfig
+sdkconfig.old

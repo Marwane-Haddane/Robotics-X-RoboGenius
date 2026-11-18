@@ -1,0 +1,7 @@
+dependencies:
+  espressif/esp_lcd_ili9341:
+    version: "==1.2.0"
+  # Arduino 3.2.1 needs this component. The currently selected 1.0.22~1
+  # resolves to an empty directory with this template's component manager.
+  espressif/libsodium:
+    version: "==1.0.20~1"

@@ -1,0 +1,3 @@
+# Compatible tools for the project's pinned pioarduino 54.03.21 / esptool 5.0.
+platformio==6.1.19
+click==8.1.8

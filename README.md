@@ -11,6 +11,10 @@
 
 Experiments with ESP32-CAM for image streaming and processing.
 
+### 🎮 CYD-PS4-MemoryGame
+
+A memory combo game on the ESP32 Cheap Yellow Display, played with a PS4 controller over Bluetooth.
+
 
 ---
 
@@ -33,6 +37,7 @@ Arduino/
 ├── SuiveurBluetoothCar/
 ├── BluetoothAgriCar/
 ├── SmartSafeCar(ComputerVision & Ai)/
+├── CYD-PS4-MemoryGame/
 └── (more coming...)
 ```
 
